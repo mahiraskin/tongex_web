@@ -21845,7 +21845,7 @@ for(s=b.length,r=t.yp,q=0;q<b.length;b.length===s||(0,A.B)(b),++q){p=b[q]
 o=J.aD(p)
 n=r.a(o.i(p,j))
 m=r.a(o.i(p,i))
-g.push(A.a8J(A.c7(o.i(p,h)),m,4,n))}l=A.b([A.am(["twisters",A.b(["Plimu","Plavu","Drimu","Dravu","Snimu","Drivu"],f),"images",A.b(["square","square","heart","heart","round","heart"],f),"audio","assets/audio/AABBCB.m4a"],e,d),A.am(["twisters",A.b(["Blimu","Snavu","Snimu","Blivu","Plimu","Blavu"],f),"images",A.b(["square","round","triangle","square","triangle","round"],f),"audio","assets/audio/ABBACA.m4a"],e,d),A.am(["twisters",A.b(["Plimu","Snavu","Drimu","Dravu","Snimu","Plavu"],f),"images",A.b(["pentagon","triangle","star","star","triangle","pentagon"],f),"audio","assets/audio/ABCCBA.m4a"],e,d),A.am(["twisters",A.b(["Snimu","Snavu","Plimu","Frivu","Plamu","Fravu"],f),"images",A.b(["heart","square","round","square","heart","round"],f),"audio","assets/audio/AABCBC.m4a"],e,d),A.am(["twisters",A.b(["Drimu","Dravu","Plimu","Plavu","Snimu","Snavu"],f),"images",A.b(["square","square","triangle","triangle","round","round"],f),"audio","assets/audio/AABBCC.m4a"],e,d),A.am(["twisters",A.b(["Snimu","Plavu","Blimu","Snavu","Plimu","Blavu"],f),"images",A.b(["diamond","square","star","diamond","square","star"],f),"audio","assets/audio/ABCABC.m4a"],e,d)],c)
+g.push(A.a8J(A.c7(o.i(p,h)),m,4,n))}l=A.b([A.am(["twisters",A.b(["Plimu","Plavu","Drimu","Dravu","Snimu","Drivu"],f),"images",A.b(["square","square","heart","heart","round","heart"],f),"audio","assets/audio/AABBCB.m4a"],e,d),A.am(["twisters",A.b(["Blimu","Snavu","Snimu","Blivu","Plimu","Blavu"],f),"images",A.b(["square","round","triangle","square","triangle","round"],f),"audio","assets/audio/ABBACA.m4a"],e,d),A.am(["twisters",A.b(["Plimu","Snavu","Drimu","Dravu","Snimu","Plavu"],f),"images",A.b(["pentagon","triangle","star","star","triangle","pentagon"],f),"audio","assets/audio/ABCCBA.m4a"],e,d),A.am(["twisters",A.b(["Snimu","Snavu","Plimu","Frivu","Plamu","Fravu"],f),"images",A.b(["heart","square","round","square","heart","round"],f),"audio","assets/audio/AABCBC.m4a"],e,d),A.am(["twisters",A.b(["Drimu","Dravu","Plimu","Plavu","Snimu","Snavu"],f),"images",A.b(["square","square","triangle","triangle","round","round"],f),"audio","assets/audio/AABBCC.m4a"],e,d),A.am(["twisters",A.b(["Snimu","Plavu","Blimu","Snavu","Plimu","Blavu"],f),"images",A.b(["diamond","diamond","star","star","square","square"],f),"audio","assets/audio/ABCABC.m4a"],e,d)],c)
 B.b.rL(l,B.ee)
 for(s=l.length,q=0;q<l.length;l.length===s||(0,A.B)(l),++q){p=l[q]
 o=J.aD(p)
@@ -72900,7 +72900,7 @@ default:s=B.ez
 r=B.dB}return A.akN(s,r,null,40)},
 U(a){var s,r=null,q=A.b(["A","B","C","D","E","F","G","H"],t.s),p=this.a,o=p.d
 p=A.pj(A.cI(o===-1?"Practice Trial":"Test "+(o+1)+" of "+p.e,r,r))
-o=A.b([B.PL,B.br],t.F)
+o=A.b([B.PM,B.br],t.F)
 s=this.f
 if(s.length!==0)o.push(A.cI("Selected: "+B.b.aL(s,""),B.OQ,r))
 o.push(B.br)
@@ -72948,7 +72948,7 @@ $1(a){return!1},
 $S:98}
 A.ab6.prototype={
 $1(a){var s=A.cI("Failed to export Excel file: "+A.o(this.a),null,null)
-return A.anJ(A.b([A.aqT(B.x2,new A.ab0(a))],t.F),s,B.PP)},
+return A.anJ(A.b([A.aqT(B.x2,new A.ab0(a))],t.F),s,B.PQ)},
 $S:170}
 A.ab0.prototype={
 $0(){var s=this.a
@@ -73024,7 +73024,7 @@ p.push(B.fs)
 o=s.gxi()?"Thank you. All items acknowledged.":"Please tick every box to confirm consent."
 p.push(A.cI(o,A.oA(r,r,s.gxi()?B.iy:B.hj,r,r,r,r,r,r,r,r,r,r,r,B.ct,r,r,!0,r,r,r,r,r,r,r,r),r))
 p.push(B.fs)
-p.push(A.als(A.WD(B.PR,s.gxi()?new A.acE(a):r,r),r,1/0))
+p.push(A.als(A.WD(B.PS,s.gxi()?new A.acE(a):r,r),r,1/0))
 p.push(B.br)
 p.push(A.cI("If you have any questions please contact us via the email addresses above or reach us through our supervisor Dr. Wouter De Raad.",B.c7,r))
 return A.r_(q,A.a5F(!0,A.aC0(A.pE(p,B.b4,B.ba,B.bb),B.CA),B.av,!0))},
@@ -73053,12 +73053,12 @@ A.acB.prototype={
 $1(a){return B.eF},
 $S:71}
 A.acz.prototype={
-$1(a){return new A.cu(B.Cx,A.alj(A.b([B.PO,A.akx(A.cI(a,B.c7,null))],t.F),B.b4,B.ba,B.bb),null)},
+$1(a){return new A.cu(B.Cx,A.alj(A.b([B.PP,A.akx(A.cI(a,B.c7,null))],t.F),B.b4,B.ba,B.bb),null)},
 $S:461}
 A.hI.prototype={}
 A.q9.prototype={
 U(a){var s=null
-return A.r_(A.pj(B.x1),new A.cu(B.CE,A.pE(A.b([B.PS,B.Lu,B.PH,B.br,B.PT,B.Lw,A.WD(B.PQ,new A.Zl(this,a),A.ayP(s,s,s,s,s,s,s,s,s,s,s,s,B.Cv,s,s,s,s,s,s,s))],t.F),B.cp,B.c1,B.bb),s))}}
+return A.r_(A.pj(B.x1),new A.cu(B.CE,A.pE(A.b([B.PT,B.Lu,B.PH,B.br,B.PL,B.Lw,A.WD(B.PR,new A.Zl(this,a),A.ayP(s,s,s,s,s,s,s,s,s,s,s,s,B.Cv,s,s,s,s,s,s,s))],t.F),B.cp,B.c1,B.bb),s))}}
 A.Zl.prototype={
 $0(){var s=A.ff(new A.Zk(this.a),null,t.z)
 A.fR(this.b,!1).i5(s)},
@@ -73088,7 +73088,7 @@ s=this.c
 s.toString
 r=A.ff(new A.aey(this,r),null,t.z)
 A.fR(s,!1).i5(r)},
-U(a){return A.r_(A.pj(B.PN),A.mR(A.WD(B.PI,this.ga3k(),null),null,null))}}
+U(a){return A.r_(A.pj(B.PO),A.mR(A.WD(B.PI,this.ga3k(),null),null,null))}}
 A.aey.prototype={
 $1(a){var s,r=this.a.e
 r===$&&A.a()
@@ -73270,7 +73270,7 @@ else o.push(B.Di)
 o.push(B.Ls)
 s=r.a.c.e
 if(s!=null&&s.length!==0)o.push(A.cI("Playing audio... (Play "+(r.r+1)+"/3)",B.x_,q))
-else o.push(B.PM)
+else o.push(B.PN)
 o.push(B.Lv)
 o.push(A.WD(B.PJ,r.ga3p(),q))
 return A.r_(p,A.mR(A.pE(o,B.bD,B.c1,B.bb),q,q))}}
@@ -73299,7 +73299,7 @@ s.r=0},
 $S:0}
 A.ahc.prototype={
 $1(a){var s=this.a.a
-return new A.j8("Now you will see shapes including ones you already saw in the options. You should order them by clicking on the shapes in thr right order",new A.kR(s.c,s.d,s.e,s.f,null),B.l0,null)},
+return new A.j8("Now you will see shapes including ones you already saw in the options. You should order them by clicking on the shapes in the right order",new A.kR(s.c,s.d,s.e,s.f,null),B.l0,null)},
 $S:82}
 A.ahd.prototype={
 $1(a){var s=this.a.a
@@ -79125,19 +79125,19 @@ B.PJ=new A.di("Stop Audio",null,null,null,null)
 B.PK=new A.di("Export Complete",null,null,null,null)
 B.x1=new A.di("Instructions",null,null,null,null)
 B.x2=new A.di("OK",null,null,null,null)
-B.MQ=new A.u(!0,null,null,null,null,null,24,B.bQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.PL=new A.di("Select the options in order",null,B.MQ,null,null)
-B.MZ=new A.u(!0,B.dB,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.PM=new A.di("No audio available",null,B.MZ,null,null)
-B.PN=new A.di("Landing",null,null,null,null)
-B.PO=new A.di("\u2022 ",null,null,null,null)
-B.PP=new A.di("Export Error",null,null,null,null)
-B.PQ=new A.di("Continue",null,B.x_,null,null)
-B.PR=new A.di("Next",null,null,null,null)
-B.Pb=new A.u(!0,null,null,null,null,null,28,B.bQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.PS=new A.di("Welcome to the Experiment",null,B.Pb,B.dR,null)
 B.N9=new A.u(!0,null,null,null,null,null,18,null,null,null,null,null,1.6,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.PT=new A.di('\u2022 You will see a series of shapes displayed on the screen\n\u2022 Pay close attention to each shape and its position\n\u2022 You will be asked to recall the sequence later\n\u2022 After the shapes you will hear a tongue twister\n\u2022 try to memorize it too\n\u2022 You will be asked to recall it too\n\u2022 Finally you will be asked to recreate the order of shapes\n\u2022 Order them again by clicking on the options\n\u2022 EX: "AFDD" "GFFG" "BBAA" "FCCFDD"',null,B.N9,null,null)
+B.PL=new A.di('\u2022 You will see a series of shapes displayed on the screen\n\u2022 Pay close attention to each shape and its position\n\u2022 You will be asked to recall the sequence later\n\u2022 After the shapes you will hear a tongue twister\n\u2022 try to memorize it too\n\u2022 Finally you will be asked to recreate the order of shapes\n\u2022 Order them again by clicking on the options\n\u2022 EX: "AFDD" "GFFG" "BBAA" "FCCFDD"',null,B.N9,null,null)
+B.MQ=new A.u(!0,null,null,null,null,null,24,B.bQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.PM=new A.di("Select the options in order",null,B.MQ,null,null)
+B.MZ=new A.u(!0,B.dB,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.PN=new A.di("No audio available",null,B.MZ,null,null)
+B.PO=new A.di("Landing",null,null,null,null)
+B.PP=new A.di("\u2022 ",null,null,null,null)
+B.PQ=new A.di("Export Error",null,null,null,null)
+B.PR=new A.di("Continue",null,B.x_,null,null)
+B.PS=new A.di("Next",null,null,null,null)
+B.Pb=new A.u(!0,null,null,null,null,null,28,B.bQ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.PT=new A.di("Welcome to the Experiment",null,B.Pb,B.dR,null)
 B.PU=new A.di("Consent Form",null,null,null,null)
 B.S9=new A.a9d(0,"system")
 B.PV=new A.z0(null)
