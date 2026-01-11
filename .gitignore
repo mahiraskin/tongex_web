@@ -1,0 +1,15 @@
+# Git ignore for Flutter web build
+# Note: Since this is a build directory, you might want to track everything
+# You can remove this file if you want to commit all build artifacts
+
+# Optional: Ignore unnecessary files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
