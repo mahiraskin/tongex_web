@@ -85817,8 +85817,8 @@ $1(a){return B.Bd},
 $S:640}
 A.aiF.prototype={
 $1(a){var s=null,r=this.a,q=t.D
-r=A.azp(A.kj(A.a([B.Th,B.dq,A.asI(new A.BH(r,B.Qc,s),B.K,new A.eL(B.lW,s,s,A.t5(8),s,s,B.bp),s,s,B.En,s),B.dq,A.fl(A.aKk(B.Fg,B.Tg,new A.aiC(r,a)),s,1/0)],q),B.bg,B.aG,B.d7),s)
-return A.awd(A.a([A.agD(B.yM,new A.aiD(a),s)],q),r,B.T9)},
+r=A.azp(A.kj(A.a([B.T6,B.dq,A.asI(new A.BH(r,B.Qc,s),B.K,new A.eL(B.lW,s,s,A.t5(8),s,s,B.bp),s,s,B.En,s),B.dq,A.fl(A.aKk(B.Fg,B.Tg,new A.aiC(r,a)),s,1/0)],q),B.bg,B.aG,B.d7),s)
+return A.awd(A.a([A.agD(B.yM,new A.aiD(a),s)],q),r,B.Tk)},
 $S:188}
 A.aiC.prototype={
 $0(){A.Iz(new A.tk(this.a))
@@ -85913,7 +85913,7 @@ A.ye.prototype={
 an(){return new A.PR(A.a([new A.ia("I have read and understood the information provided above regarding the study."),new A.ia("I understand that I will be asked to complete a 15-minute computer task involving memory for sequences."),new A.ia("I understand that my participation is voluntary and I can withdraw at any time without any negative consequences."),new A.ia("I understand that my data will be anonymous and handled only by the researchers for this course."),new A.ia("I freely agree to participate in this study.")],t.i_))}}
 A.PR.prototype={
 gAX(){return B.b.e6(this.d,new A.akd())},
-O(a){var s=this,r=null,q=A.t0(B.T6),p=A.a([A.cL("Study Title",r,B.cB,r),A.cL("Serial Ordering in Visual Memorization and Language Production",r,B.cC,r),B.dq,s.Cs("Researchers","Mahir Cem A\u015fk\u0131n (m.askin@student.uw.edu.pl)\nZuzia Mozgawa-Buco\u0144 (z.mozgawabuc@student.uw.edu.pl)"),s.Cs("Course","Experimental Psychology, Faculty of Psychology, University of Warsaw"),s.Cs("Instructor","Dr. Wouter De Raad (wderaad@psych.uw.edu.pl)"),B.bM,A.cL("Welcome",r,B.cB,r),A.cL("We would like to warmly welcome you and present key concepts that need to be acknowledged before we conduct our study. Our names are Mahir Cem A\u015fk\u0131n and Zuzanna Mozgawa-Buco\u0144 and we are constructing this study under the tutelage of Dr. Wouter De Raad as part of Experimental Psychology course.",r,B.cC,r),B.bM,A.cL("Purpose of the Study",r,B.cB,r),A.cL("The purpose of the study is to investigate how people memorize sequences (such as numbers or sounds) and to determine if the ordering mechanisms are shared between our visual and auditory systems. This study aims to find possible correlations between these systems.",r,B.cC,r),B.bM,A.cL("What you will do",r,B.cB,r),A.cL("If you decide to participate you will be asked to complete a computer-based experiment in the classroom. The process takes approximately 15 minutes and involves the following steps:",r,B.cC,r),s.B4(B.Gv),B.bM,A.cL("Key rules of consent",r,B.cB,r),s.B4(B.GM),B.bM,A.cL("Data handling & privacy",r,B.cB,r),s.B4(B.Ha),B.NI,A.cL("Please initial each box below to indicate your agreement",r,B.cB,r),B.NM],t.D),o=s.d
+O(a){var s=this,r=null,q=A.t0(B.T7),p=A.a([A.cL("Study Title",r,B.cB,r),A.cL("Serial Ordering in Visual Memorization and Language Production",r,B.cC,r),B.dq,s.Cs("Researchers","Mahir Cem A\u015fk\u0131n (m.askin@student.uw.edu.pl)\nZuzia Mozgawa-Buco\u0144 (z.mozgawabuc@student.uw.edu.pl)"),s.Cs("Course","Experimental Psychology, Faculty of Psychology, University of Warsaw"),s.Cs("Instructor","Dr. Wouter De Raad (wderaad@psych.uw.edu.pl)"),B.bM,A.cL("Welcome",r,B.cB,r),A.cL("We would like to warmly welcome you and present key concepts that need to be acknowledged before we conduct our study. Our names are Mahir Cem A\u015fk\u0131n and Zuzanna Mozgawa-Buco\u0144 and we are constructing this study under the tutelage of Dr. Wouter De Raad as part of Experimental Psychology course.",r,B.cC,r),B.bM,A.cL("Purpose of the Study",r,B.cB,r),A.cL("The purpose of the study is to investigate how people memorize sequences (such as numbers or sounds) and to determine if the ordering mechanisms are shared between our visual and auditory systems. This study aims to find possible correlations between these systems.",r,B.cC,r),B.bM,A.cL("What you will do",r,B.cB,r),A.cL("If you decide to participate you will be asked to complete a computer-based experiment in the classroom. The process takes approximately 15 minutes and involves the following steps:",r,B.cC,r),s.B4(B.Gv),B.bM,A.cL("Key rules of consent",r,B.cB,r),s.B4(B.GM),B.bM,A.cL("Data handling & privacy",r,B.cB,r),s.B4(B.Ha),B.NI,A.cL("Please initial each box below to indicate your agreement",r,B.cB,r),B.NM],t.D),o=s.d
 B.b.W(p,new A.ak(o,new A.aki(s),A.a6(o).h("ak<1,l>")))
 p.push(B.dq)
 o=s.gAX()?"Thank you. All items acknowledged.":"Please tick every box to confirm consent."
@@ -85953,7 +85953,7 @@ $S:648}
 A.ia.prototype={}
 A.u2.prototype={
 O(a){var s=null
-return A.vc(A.t0(B.yL),new A.bP(B.Ey,A.kj(A.a([B.Te,B.NJ,B.Tk,B.bM,B.Td,B.NL,A.a2J(!1,B.Tl,s,s,s,s,s,s,new A.a5H(this,a),s,A.aKl(s,s,s,s,s,s,s,s,s,s,s,s,B.Ek,s,s,s,s,s,s,s))],t.D),B.cU,B.cw,B.b6),s))}}
+return A.vc(A.t0(B.yL),new A.bP(B.Ey,A.kj(A.a([B.Te,B.NJ,B.Tj,B.bM,B.Td,B.NL,A.a2J(!1,B.Tl,s,s,s,s,s,s,new A.a5H(this,a),s,A.aKl(s,s,s,s,s,s,s,s,s,s,s,s,B.Ek,s,s,s,s,s,s,s))],t.D),B.cU,B.cw,B.b6),s))}}
 A.a5H.prototype={
 $0(){var s=A.fR(new A.a5G(this.a),null,t.z)
 A.fS(this.b,!1).jW(s)},
@@ -85984,7 +85984,7 @@ s.toString
 r=A.fR(new A.amz(this,r),null,t.z)
 A.fS(s,!1).jW(r)},
 O(a){var s=null
-return A.vc(A.t0(B.T7),A.jd(A.a2J(!1,B.Tm,s,s,s,s,s,s,this.gaco(),s,s),s,s))}}
+return A.vc(A.t0(B.T8),A.jd(A.a2J(!1,B.Tm,s,s,s,s,s,s,this.gaco(),s,s),s,s))}}
 A.amz.prototype={
 $1(a){var s,r=this.a.e
 r===$&&A.b()
@@ -86167,9 +86167,9 @@ else o.push(B.Fd)
 o.push(B.NH)
 s=r.a.c.e
 if(s!=null&&s.length!==0)o.push(A.cL("Playing audio... (Play "+(r.r+1)+"/3)",q,B.yK,q))
-else o.push(B.T8)
+else o.push(B.T9)
 o.push(B.NK)
-o.push(A.a2J(!1,B.Ti,q,q,q,q,q,q,r.gacw(),q,q))
+o.push(A.a2J(!1,B.Th,q,q,q,q,q,q,r.gacw(),q,q))
 return A.vc(p,A.jd(A.kj(o,B.aU,B.cw,B.b6),q,q))}}
 A.aq0.prototype={
 $0(){this.a.f=!0},
@@ -91352,9 +91352,9 @@ B.NU=new A.jJ(3,"hide")
 B.Wu=new A.jJ(4,"remove")
 B.yq=new A.jJ(5,"timeout")
 B.NV=new A.vq(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Tj=new A.dj("Encrypted data copied to clipboard",null,null,null,null,null)
+B.Ti=new A.dj("Encrypted data copied to clipboard",null,null,null,null,null)
 B.Ea=new A.aO(4e6)
-B.NW=new A.r1(B.Tj,null,null,null,null,null,null,null,null,null,null,null,null,B.Ea,null,null,null,B.ae,null)
+B.NW=new A.r1(B.Ti,null,null,null,null,null,null,null,null,null,null,null,null,B.Ea,null,null,null,B.ae,null)
 B.yr=new A.C_(0,"permissive")
 B.NX=new A.C_(1,"normal")
 B.NY=new A.C_(2,"forced")
@@ -91713,12 +91713,12 @@ B.RU=new A.r(!0,B.M,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Sd=new A.r(!0,B.n,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.P8=new A.r(!0,B.n,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.T5=new A.dX(B.QR,B.PT,B.QS,B.Rq,B.Pu,B.PC,B.Qe,B.Rd,B.Qs,B.RY,B.OZ,B.Pj,B.RU,B.Sd,B.P8)
-B.T6=new A.dj("Consent Form",null,null,null,null,null)
-B.T7=new A.dj("Landing",null,null,null,null,null)
+B.T6=new A.dj("Copy the code below and send it to us please:",null,B.hz,null,null,null)
+B.T7=new A.dj("Consent Form",null,null,null,null,null)
+B.T8=new A.dj("Landing",null,null,null,null,null)
 B.PM=new A.r(!0,B.em,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.T8=new A.dj("No audio available",null,B.PM,null,null,null)
+B.T9=new A.dj("No audio available",null,B.PM,null,null,null)
 B.yL=new A.dj("Instructions",null,null,null,null,null)
-B.T9=new A.dj("Export Complete",null,null,null,null,null)
 B.Ta=new A.dj("Next",null,null,null,null,null)
 B.Tb=new A.dj("Export Error",null,null,null,null,null)
 B.Tc=new A.dj("\u2022 ",null,null,null,null,null)
@@ -91730,10 +91730,10 @@ B.yM=new A.dj("OK",null,null,null,null,null)
 B.PB=new A.r(!0,null,null,null,null,null,24,B.bq,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Tf=new A.dj("Select the options in order",null,B.PB,null,null,null)
 B.Tg=new A.dj("Copy to Clipboard",null,null,null,null,null)
-B.Th=new A.dj("Encrypted data (copy the string below):",null,B.hz,null,null,null)
-B.Ti=new A.dj("Stop Audio",null,null,null,null,null)
+B.Th=new A.dj("Stop Audio",null,null,null,null,null)
 B.OW=new A.r(!0,null,null,null,null,null,20,B.d3,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Tk=new A.dj("Instructions:",null,B.OW,null,null,null)
+B.Tj=new A.dj("Instructions:",null,B.OW,null,null,null)
+B.Tk=new A.dj("Test Complete",null,null,null,null,null)
 B.Tl=new A.dj("Continue",null,B.yK,null,null,null)
 B.Tm=new A.dj("Start",null,null,null,null,null)
 B.Wv=new A.ahh(0,"system")
